@@ -1,2 +1,2 @@
 # clone_your_utilities
-permet de copier coller le contenu d'un dossier dans un repo
+Ce script permet de cloner un repo tout en lui donnant un autre nom que celui de github. Il permet aussi de copier coller le contenu voulu d'un  autre dossier comme un makefile ou une lib, pour cela il faudra préalablement avoir crée un dossier stock_my_utilities conntenant les fichiers voulus. 
